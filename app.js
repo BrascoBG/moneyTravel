@@ -22,4 +22,4 @@ function travelPrice([arg1,arg2]){
 }
 
 
-travelPrice([150,'day']);
+travelPrice([140,'day']);
